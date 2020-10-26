@@ -1,6 +1,7 @@
 # app-http-logger
-Provide out-of-the-box automatic logging of your running docker containers, and make the data available on ElasticSearch + Kibana for further analysis and visualization.
+Provide out-of-the-box automatic logging of your running docker containers, and make the data available on ElasticSearch + Kibana for further analysis and visualization. 
 
+**Note**: A more modern version of app-http-logger is available on https://github.com/redpencilio/app-http-logger
 
 ## Usage 
 The app-http-logger consists of multilple components which you can combine at your leisure. To make things a bit easier, we've provided 3 docker-compose files that you can combine as required.
